@@ -1,4 +1,4 @@
-## Python script to play chess over the Board
+# Python script to play chess over the Board
 
 ### Requirements
 
